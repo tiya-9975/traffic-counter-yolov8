@@ -19,3 +19,11 @@ videos/
 .DS_Store
 Thumbs.db
 
+venv/
+__pycache__/
+*.mp4
+output/
+*.csv
+*.pt
+
+
